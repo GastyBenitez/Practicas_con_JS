@@ -134,5 +134,16 @@
 
 //BONUS
 
+//Ejercicio 0
+//const primerNumero = prompt("Ingrese un número");
+//const segundoNumero = prompt("Ingrese otro número");
+
+//alert(primerNumero + segundoNumero);
+
+
+//1) Crear un conversor de años a segundos. Solicitar al usuario una cantidad de días y mostrar su equivalente en segundos por alert o alert, a elección. (Pueden probar también con números con coma :) 2,5 años por ejemplo)
+
+//Ejercicio 1
+const dias = parseFloat(prompt("Ingrese una cantidad de días"));
 
 
