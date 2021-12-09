@@ -100,3 +100,39 @@
 //alert("El total a pagar es: " + totalAPagar);
 
 
+
+//Ejercicio 11
+//const nombre = prompt ("¿Cuál es tu nombre?");
+//const edad = parseFloat(prompt ("¿Qué edad cumplis o cumpliste en 2021?"));
+//const actualYear = parseFloat(2021);
+//const bornDate = actualYear - edad;
+
+//alert("Hola " + nombre + " " + "Usted nació en el año " + bornDate);
+
+
+//Ejercicio 12
+//const nombre = prompt("Ingrese su nombre ");
+//const celcius = parseFloat(prompt("Ingrese grados en CELCIUS "));
+//const farenheit = celcius *33.8;
+
+//alert(nombre + "," + " " + "tu temperatura es " + " " + farenheit + " " + "Farenheit ");
+
+
+//Ejercicio 13
+//const nombre = prompt("Ingrese su nombre");
+//const farenheit = parseFloat(prompt("Ingrese grados en FARENHEIT"));
+//const celcius = (farenheit - 32) * 5 / 9;
+
+//alert(nombre + "," + " " + "tu temperatura es " + " " + celcius + " " + "Celcius ");
+
+
+
+//Ejercicio 14
+//const numero = parseFloat(prompt("Ingrese un numero"));
+//const resultado = (numero + 5) * 10 /3;
+//alert("Su resultado es: " + " " + resultado);
+
+//BONUS
+
+
+
